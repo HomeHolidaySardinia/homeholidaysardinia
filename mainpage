@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="Property Manager in Sardegna - Gestione case vacanza, servizi turistici e consulenza per affitti brevi.">
+<meta name="keywords" content="Experience in Sardinia, Sardinia Home Holiday, Ciao Sardegna, Property Manager Sardegna, case vacanza, affitti brevi, gestione Airbnb Sardegna">
+<meta name="author" content="Home Holiday Sardinia">
+<title>Home Holiday Sardinia | Property Manager & Esperienze in Sardegna</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap">
+<style>
+body {
+font-family: 'Roboto', sans-serif;
+margin: 0;
+padding: 0;
+background-color: #f9f9f9;
+color: #333;
+}
+header {
+background-color: #004d4d;
+color: white;
+padding: 20px;
+text-align: center;
+}
+section {
+padding: 20px;
+max-width: 900px;
+margin: auto;
+}
+h1, h2 {
+color: #006666;
+}
+a {
+color: #004d4d;
+text-decoration: none;
+}
+.cta {
+display: inline-block;
+background-color: #007777;
+color: white;
+padding: 10px 20px;
+margin-top: 20px;
+border-radius: 5px;
+text-decoration: none;
+}
+</style>
+</head>
+<body>
+
+<header>
+<h1>Home Holiday Sardinia</h1>
+<p>Esperienze autentiche e gestione professionale di case vacanza in Sardegna</p>
+</header>
+
+<section>
+<h2>Chi Sono</h2>
+<p>Con oltre 25 anni di esperienza nella gestione extra-alberghiera, offro servizi completi per turisti e proprietari. Collaboro attivamente con Airbnb come property manager di fiducia.</p>
+
+<h2>Servizi per Turisti</h2>
+<ul>
+<li>Noleggio kayak (anche con attrezzatura da pesca)</li>
+<li>Noleggio biciclette</li>
+<li>Trasferimenti da/per aeroporto</li>
+<li>Escursioni, trekking e pranzi tipici in agriturismi autentici</li>
+<li>Assistenza turistica 24/7</li>
+</ul>
+
+<h2>Servizi per Proprietari</h2>
+<ul>
+<li>Creazione annunci professionali su Airbnb</li>
+<li>Servizio fotografico, check-in/out e pulizie</li>
+<li>Registrazioni su Alloggiati Web, Ross 1000, CIN, tassa di soggiorno</li>
+<li>Gestione affitti con cedolare secca e reportistica</li>
+<li>Supporto anche senza SPID o CIE</li>
+</ul>
+
+<h2>Contatti</h2>
+<p>Email: <a href="mailto:homeholidaysardinia@gmail.com">homeholidaysardinia@gmail.com</a></p>
+<p>Telefono / WhatsApp: <a href="tel:+393922531900">3922531900</a></p>
+<p>Instagram: <a href="https://www.instagram.com/experience_in_sardinia" target="_blank">@experience_in_sardinia</a></p>
+
+<a href="https://www.airbnb.it/users/show/12345678" target="_blank" class="cta">Scopri i miei annunci su Airbnb</a>
+</section>
+
+<footer style="text-align:center; padding:20px; background:#eee;">
+© 2025 Home Holiday Sardinia | Experience in Sardinia | Sardinia Home Holiday | Ciao Sardegna
+</footer>
+
+</body>
+</html>
